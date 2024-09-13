@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-boilerplate1--dipenrique.hlx.page/
-- Live: https://main--aem-boilerplate1--dipenrique.hlx.live/
+- Preview: https://main--aem-boilerplate--dipen-sagar.hlx.page/
+- Live: https://main--aem-boilerplate--dipen-sagar.hlx.live/
 
 ## Installation
 
